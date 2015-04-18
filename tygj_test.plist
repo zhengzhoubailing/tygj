@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bailingdianzi.seneschalAPNS.fixios8</string>
+				<string>com.bailing.seneschalAPNS.fixios8</string>
 				<key>bundle-version</key>
 				<string>1.4</string>
 				<key>kind</key>
