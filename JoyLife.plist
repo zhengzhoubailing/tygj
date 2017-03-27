@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bailingdianzi.seneschalAPNS</string>
+				<string>com.org.joylife</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
 				<key>kind</key>
