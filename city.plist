@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://171.14.99.27:9030/puyang-awh/download/city.ipa</string>
+					<string>http://171.14.99.27:9020/puyang-awh/app/download/city.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
